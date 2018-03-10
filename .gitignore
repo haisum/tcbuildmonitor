@@ -1,0 +1,5 @@
+curl.json
+evolv_env.sh
+tmp/
+*.exe
+main
